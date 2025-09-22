@@ -10,7 +10,7 @@
   "license": "ISC",
   "author": "Ritesh kumar sah",
   "type": "commonjs",
-  "main": "app.js",
+  "main": "api/index.js",
   "scripts": {
     "start": "node src/app.js",
     "dev": "nodemon src/app.js",
